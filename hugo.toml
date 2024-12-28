@@ -1,0 +1,7 @@
+baseURL = 'https://kool.tools/'
+languageCode = 'en-gb'
+title = 'My New Hugo Site'
+enableRobotsTXT = true
+theme = "kool.tools"
+[imaging]
+	quality = 100
